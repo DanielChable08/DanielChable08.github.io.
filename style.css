@@ -800,3 +800,7 @@ body {
   transform: translateX(0);
 }
 
+.logo-size{
+    height:65px;
+    width:70px;
+}
